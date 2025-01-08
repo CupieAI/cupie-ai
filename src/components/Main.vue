@@ -9,7 +9,7 @@
       <a href="https://x.com/CupieAI" target="_blank">
         <img src="../assets/x-social-media-white-icon.svg" alt="twitter" width="50px">
       </a>
-      <a href="#github" target="_blank">
+      <a href="https://github.com/CupieAI" target="_blank">
         <img src="../assets/github-white-icon.svg" alt="github" width="50px">
       </a>
     </div>
