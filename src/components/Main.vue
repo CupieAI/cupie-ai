@@ -4,13 +4,13 @@
     <div style="height: 300px; margin-bottom: 20px;">
       <img src="../assets/cupie.png" alt="cupie-pp" height="100%">
     </div>
-    <a href="#tbd" style="text-decoration: none;"><p>CA: TBD</p></a>
+    <a href="#ca" target="_blanks" style="text-decoration: none;"><p>CA: TBD</p></a>
     <div style="display: flex; justify-content: space-around; width: 150px; margin-bottom: 20px;">
       <a href="https://x.com/CupieAI" target="_blank">
         <img src="../assets/x-social-media-white-icon.svg" alt="twitter" width="50px">
       </a>
       <a href="https://github.com/CupieAI" target="_blank">
-        <img src="../assets/github-white-icon.svg" alt="github" width="50px">
+        <img src="../assets/icons8-github-96.png" alt="github" width="50px">
       </a>
     </div>
     <button class="chat-button" @click="openChat">

@@ -2,8 +2,6 @@
 import { ref } from 'vue'
 import Navbar from './components/Navbar.vue'
 import Main from './components/Main.vue'
-import Pumpfun from './components/Pump.fun.vue'
-import Dexscreener from './components/Dexscreener.vue'
 
 const currentPage = ref('Main')
 </script>
